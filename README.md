@@ -1,7 +1,7 @@
 
 
 This is the novel DN4IL dataset introduced for Domain-Incremental setting in Continual Learning domain.
-It was introduced in the TMLR paper, **"Dual Cognitive Architecture: Incorporating Biases and Multi-Memory Systems for Lifelong Learning"** by Shruthi Gowda, Elahe Arani and Bahram Zonooz (https://github.com/NeurAI-Lab/DUCA)
+It was introduced in the TMLR paper, **"[Dual Cognitive Architecture: Incorporating Biases and Multi-Memory Systems for Lifelong Learning](https://openreview.net/forum?id=PEyVq0hlO3)"** by Shruthi Gowda, Elahe Arani and Bahram Zonooz (https://github.com/NeurAI-Lab/DUCA)
 
 
 *DN4IL* is a subset of the standard DomainNet dataset used in domain adaptation. It consists of six different domains: real, clipart, infograph, painting, quickdraw, and sketch. The shift in distribution between domains is challenging. A few examples and statistics of the dataset can be seen below. 
